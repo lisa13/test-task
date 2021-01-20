@@ -1,0 +1,33 @@
+body{
+      font-family: 'Lucida Sans', 'Lucida Sans Unicode', Verdana, sans-serif;
+      margin: 40px;
+
+}
+
+.main {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: flex-end;
+}
+
+.btn-fetch {
+      background: rgb(34, 139, 153);
+      margin: 20px;
+      padding: 7px 30px;
+      border-radius: 5px;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+}
+
+.btn-switch {
+      background: rgb(29, 25, 8);
+      padding: 7px 30px;
+      margin-top: 20px;
+      border-radius: 5px;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+
+}

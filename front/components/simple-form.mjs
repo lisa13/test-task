@@ -33,6 +33,13 @@ class SimpleForm extends HTMLElement {
                 
                 .submit button {
                     padding: 2px 12px;
+                    background: #ddd;
+                    margin: 20px;
+                    padding: 7px 30px;
+                    border-radius: 5px;
+                    color: #000;
+                    font-size: 16px;
+                    cursor: pointer;
                 }
             </style>
             <form id="simple-form" novalidate>
