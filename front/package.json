@@ -1,0 +1,18 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 4000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^6.3.1",
+    "faker": "^5.1.0",
+    "jquery": "^3.5.1",
+    "list.js": "^2.3.1"
+  }
+}
