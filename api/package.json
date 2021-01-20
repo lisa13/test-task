@@ -15,7 +15,8 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "faker": "^5.1.0",
-    "sqlite3": "^5.0.1"
+    "sqlite3": "^5.0.1",
+    "supervisor": "^0.12.0"
   },
   "devDependencies": {
     "tape": "^5.1.1"
