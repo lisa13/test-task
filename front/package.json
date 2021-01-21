@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -p 4000"
+    "start": "http-server -p 4001"
   },
   "keywords": [],
   "author": "",

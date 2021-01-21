@@ -14,7 +14,7 @@ class SimpleForm extends HTMLElement {
                 .form-field {
                     margin-bottom: 20px;
                     display: flex;
-                    flex-direction: column;
+                    flex-direction: column;simple-chart
                 }
                 
                 .form-field label {
